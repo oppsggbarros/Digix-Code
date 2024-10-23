@@ -17,7 +17,7 @@ namespace Exemplo
             double preco2 = 650.50;
             double preco3 = 53.234567;
 
-            Console.WriteLine($"Produtos: \n{produto1}, cujo o preço é $ {preco1:f2}\n{produto2}, cujo o preço é $ {preco2:f2}\n\nRegistro: {idade} anos de idade, código {codigo} e genero: {genero}\n\nMedida com oito casas decimais: {preco3:f8}\nArredondado (três casas decimais): {preco3:f3}\nSeparador decimal invariant culture: {preco3.ToString("N3", CultureInfo.InvariantCulture)}");
+            Console.WriteLine($"Produtos: \n{produto1}, cujo o preço é $ {preco1:N2}\n{produto2}, cujo o preço é $ {preco2:f2}\n\nRegistro: {idade} anos de idade, código {codigo} e genero: {genero}\n\nMedida com oito casas decimais: {preco3:f8}\nArredondado (três casas decimais): {preco3:f3}\nSeparador decimal invariant culture: {preco3.ToString("N3", CultureInfo.InvariantCulture)}");
 
         }
     }

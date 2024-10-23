@@ -12,3 +12,4 @@ C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Csharp-digix\obj\Debug\net
 C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Csharp-digix\obj\Debug\net8.0\Csharp-digix.pdb
 C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Csharp-digix\obj\Debug\net8.0\Csharp-digix.genruntimeconfig.cache
 C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Csharp-digix\obj\Debug\net8.0\ref\Csharp-digix.dll
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Csharp-digix\obj\Debug\net8.0\Csharp-digix.sourcelink.json
