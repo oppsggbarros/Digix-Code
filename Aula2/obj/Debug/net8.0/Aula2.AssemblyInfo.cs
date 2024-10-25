@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Csharp-digix")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Aula2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7f59fd80b940542b521edfc3e9fe447b7dc6b1aa")]
-[assembly: System.Reflection.AssemblyProductAttribute("Csharp-digix")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Csharp-digix")]
+[assembly: System.Reflection.AssemblyProductAttribute("Aula2")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Aula2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.
