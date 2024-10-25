@@ -25,7 +25,7 @@ namespace Exemplo
                 Console.WriteLine(quartos);
                 Console.WriteLine(ultimonome);
                 Console.WriteLine(idade);
-                Console.WriteLine(altura);
+                Console.WriteLine(altura.ToString("N2", CultureInfo.InvariantCulture));
                 
 
             }
