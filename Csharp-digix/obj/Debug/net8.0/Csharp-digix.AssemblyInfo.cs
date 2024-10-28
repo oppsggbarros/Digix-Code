@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Csharp-digix")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6b497d19544c22275faaac3cd3d64d54a87a6e44")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f0e87198943ed3675bc87b03dfc218414665596f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Csharp-digix")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Csharp-digix")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
