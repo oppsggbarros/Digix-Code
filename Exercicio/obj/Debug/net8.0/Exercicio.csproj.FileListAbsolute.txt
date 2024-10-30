@@ -1,0 +1,15 @@
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Exercicio\bin\Debug\net8.0\Exercicio.exe
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Exercicio\bin\Debug\net8.0\Exercicio.deps.json
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Exercicio\bin\Debug\net8.0\Exercicio.runtimeconfig.json
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Exercicio\bin\Debug\net8.0\Exercicio.dll
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Exercicio\bin\Debug\net8.0\Exercicio.pdb
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Exercicio\obj\Debug\net8.0\Exercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Exercicio\obj\Debug\net8.0\Exercicio.AssemblyInfoInputs.cache
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Exercicio\obj\Debug\net8.0\Exercicio.AssemblyInfo.cs
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Exercicio\obj\Debug\net8.0\Exercicio.csproj.CoreCompileInputs.cache
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Exercicio\obj\Debug\net8.0\Exercicio.sourcelink.json
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Exercicio\obj\Debug\net8.0\Exercicio.dll
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Exercicio\obj\Debug\net8.0\refint\Exercicio.dll
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Exercicio\obj\Debug\net8.0\Exercicio.pdb
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Exercicio\obj\Debug\net8.0\Exercicio.genruntimeconfig.cache
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Exercicio\obj\Debug\net8.0\ref\Exercicio.dll
