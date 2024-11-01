@@ -75,71 +75,72 @@
 
 //             // Exercicio 4
 
-//             // int[,] matriz = new int[4, 4];
+            // int[,] matriz = new int[4, 4];
         
-//             // Console.WriteLine("Digite os elementos da matriz 4x4:");
-//             // for (int i = 0; i < 4; i++)
-//             // {
-//             //     for (int j = 0; j < 4; j++)
-//             //     {
-//             //         Console.Write($"Elemento [{i + 1},{j + 1}]: ");
-//             //         matriz[i, j] = Convert.ToInt32(Console.ReadLine());
-//             //     }
-//             // }
+            // Console.WriteLine("Digite os elementos da matriz 4x4:");
+            // for (int i = 0; i < 4; i++)
+            // {
+            //     for (int j = 0; j < 4; j++)
+            //     {
+            //         Console.Write($"Elemento [{i + 1},{j + 1}]: ");
+            //         matriz[i, j] = Convert.ToInt32(Console.ReadLine());
+            //     }
+            // }
 
             
-//             // int somaDiagonal = 0;
-//             // for (int i = 0; i < 4; i++)
-//             // {
-//             //     somaDiagonal += matriz[i, i];
-//             // }
+            // int somaDiagonal = 0;
+            // for (int i = 0; i < 4; i++)
+            // {
+            //     somaDiagonal += matriz[i, i];
+            // }
 
             
-//             // Console.WriteLine($"A soma dos elementos da diagonal principal é: {somaDiagonal}");
+            // Console.WriteLine($"A soma dos elementos da diagonal principal é: {somaDiagonal}");
 
 //             //Exercicio 5
 
-//             // int[,] matriz1 = new int[4, 4];
-//             // int[,] matriz2 = new int[4, 4];
-//             // int[,] somaMatriz = new int[4, 4];
+            int[,] matriz1 = new int[4, 4];
+            int[,] matriz2 = new int[4, 4];
+            int[,] somaMatriz = new int[4, 4];
 
-//             // Console.WriteLine("Digite os elementos da primeira matriz 4x4:");
-//             // for (int i = 0; i < 4; i++)
-//             // {
-//             //     for (int j = 0; j < 4; j++)
-//             //     {
-//             //         Console.Write($"Elemento [{i + 1},{j + 1}]: ");
-//             //         matriz1[i, j] = Convert.ToInt32(Console.ReadLine());
-//             //     }
-//             // }
+            Console.WriteLine("Digite os elementos da primeira matriz 4x4:");
+            for (int i = 0; i < 4; i++)
+            {
+                for (int j = 0; j < 4; j++)
+                {
+                    Console.Write($"Elemento [{i + 1},{j + 1}]: ");
+                    matriz1[i, j] = Convert.ToInt32(Console.ReadLine());
+                }
+            }
 
-//             // Console.WriteLine("Digite os elementos da segunda matriz 4x4:");
-//             // for (int i = 0; i < 4; i++)
-//             // {
-//             //     for (int j = 0; j < 4; j++)
-//             //     {
-//             //         Console.Write($"Elemento [{i + 1},{j + 1}]: ");
-//             //         matriz2[i, j] = Convert.ToInt32(Console.ReadLine());
-//             //     }
-//             // }
+            Console.WriteLine("Digite os elementos da segunda matriz 4x4:");
+            for (int i = 0; i < 4; i++)
+            {
+                for (int j = 0; j < 4; j++)
+                {
+                    Console.Write($"Elemento [{i + 1},{j + 1}]: ");
+                    matriz2[i, j] = Convert.ToInt32(Console.ReadLine());
+                }
+            }
 
-//             // for (int i = 0; i < 4; i++)
-//             // {
-//             //     for (int j = 0; j < 4; j++)
-//             //     {
-//             //         somaMatriz[i, j] = matriz1[i, j] + matriz2[i, j];
-//             //         multiplicaMatriz[i, j] = matriz1[i, j] * matriz2[i, j];
-//             //     }
-//             // }
+            for (int i = 0; i < 4; i++)
+            {
+                for (int j = 0; j < 4; j++)
+                {
+                    somaMatriz[i, j] = matriz1[i, j] + matriz2[i, j];
+                    multiplicaMatriz[i, j] = matriz1[i, j] * matriz2[i, j];
+                }
+            }
 
-//             // Console.WriteLine("A matriz resultante da soma é:");
-//             // for (int i = 0; i < 4; i++)
-//             // {
-//             //     for (int j = 0; j < 4; j++)
-//             //     {
-//             //         Console.Write(somaMatriz[i, j] + "\t");
-//             //     }
-//             //     Console.WriteLine();
+            Console.WriteLine("A matriz resultante da soma é:");
+            for (int i = 0; i < 4; i++)
+            {
+                for (int j = 0; j < 4; j++)
+                {
+                    Console.Write(somaMatriz[i, j] + "\t");
+                }
+                Console.WriteLine();
+            }
             
 //             //Exercicio 6
 
