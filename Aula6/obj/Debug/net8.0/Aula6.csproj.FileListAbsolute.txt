@@ -1,0 +1,14 @@
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Aula6\bin\Debug\net8.0\Aula6.exe
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Aula6\bin\Debug\net8.0\Aula6.deps.json
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Aula6\bin\Debug\net8.0\Aula6.runtimeconfig.json
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Aula6\bin\Debug\net8.0\Aula6.dll
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Aula6\obj\Debug\net8.0\Aula6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Aula6\obj\Debug\net8.0\Aula6.AssemblyInfoInputs.cache
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Aula6\obj\Debug\net8.0\Aula6.AssemblyInfo.cs
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Aula6\obj\Debug\net8.0\Aula6.csproj.CoreCompileInputs.cache
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Aula6\obj\Debug\net8.0\Aula6.sourcelink.json
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Aula6\obj\Debug\net8.0\Aula6.dll
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Aula6\obj\Debug\net8.0\refint\Aula6.dll
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Aula6\obj\Debug\net8.0\Aula6.pdb
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Aula6\obj\Debug\net8.0\Aula6.genruntimeconfig.cache
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Aula6\obj\Debug\net8.0\ref\Aula6.dll
