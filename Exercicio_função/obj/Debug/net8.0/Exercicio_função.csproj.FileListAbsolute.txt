@@ -1,0 +1,15 @@
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Exercicio_função\bin\Debug\net8.0\Exercicio_função.exe
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Exercicio_função\bin\Debug\net8.0\Exercicio_função.deps.json
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Exercicio_função\bin\Debug\net8.0\Exercicio_função.runtimeconfig.json
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Exercicio_função\bin\Debug\net8.0\Exercicio_função.dll
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Exercicio_função\bin\Debug\net8.0\Exercicio_função.pdb
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Exercicio_função\obj\Debug\net8.0\Exercicio_função.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Exercicio_função\obj\Debug\net8.0\Exercicio_função.AssemblyInfoInputs.cache
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Exercicio_função\obj\Debug\net8.0\Exercicio_função.AssemblyInfo.cs
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Exercicio_função\obj\Debug\net8.0\Exercicio_função.csproj.CoreCompileInputs.cache
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Exercicio_função\obj\Debug\net8.0\Exercicio_função.sourcelink.json
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Exercicio_função\obj\Debug\net8.0\Exercicio_função.dll
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Exercicio_função\obj\Debug\net8.0\refint\Exercicio_função.dll
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Exercicio_função\obj\Debug\net8.0\Exercicio_função.pdb
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Exercicio_função\obj\Debug\net8.0\Exercicio_função.genruntimeconfig.cache
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Exercicio_função\obj\Debug\net8.0\ref\Exercicio_função.dll
