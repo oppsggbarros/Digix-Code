@@ -1,0 +1,13 @@
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\desafio\bin\Debug\net8.0\desafio.exe
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\desafio\bin\Debug\net8.0\desafio.deps.json
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\desafio\bin\Debug\net8.0\desafio.runtimeconfig.json
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\desafio\bin\Debug\net8.0\desafio.dll
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\desafio\bin\Debug\net8.0\desafio.pdb
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\desafio\obj\Debug\net8.0\desafio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\desafio\obj\Debug\net8.0\desafio.AssemblyInfoInputs.cache
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\desafio\obj\Debug\net8.0\desafio.AssemblyInfo.cs
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\desafio\obj\Debug\net8.0\desafio.csproj.CoreCompileInputs.cache
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\desafio\obj\Debug\net8.0\desafio.sourcelink.json
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\desafio\obj\Debug\net8.0\desafio.dll
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\desafio\obj\Debug\net8.0\desafio.pdb
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\desafio\obj\Debug\net8.0\desafio.genruntimeconfig.cache

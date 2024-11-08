@@ -9,7 +9,5 @@ C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Exercicio_função\obj\Deb
 C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Exercicio_função\obj\Debug\net8.0\Exercicio_função.csproj.CoreCompileInputs.cache
 C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Exercicio_função\obj\Debug\net8.0\Exercicio_função.sourcelink.json
 C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Exercicio_função\obj\Debug\net8.0\Exercicio_função.dll
-C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Exercicio_função\obj\Debug\net8.0\refint\Exercicio_função.dll
 C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Exercicio_função\obj\Debug\net8.0\Exercicio_função.pdb
 C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Exercicio_função\obj\Debug\net8.0\Exercicio_função.genruntimeconfig.cache
-C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Exercicio_função\obj\Debug\net8.0\ref\Exercicio_função.dll
