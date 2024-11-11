@@ -9,7 +9,7 @@ namespace Ref
         }
         static void Quadradoref(ref int x)
         {
-            x = x*x; 
+            x = x * x; 
         }
         static void Main(string[] args)
         {
