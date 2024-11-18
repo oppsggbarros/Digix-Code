@@ -3,3 +3,13 @@ C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Aula11\obj\Debug\net8.0\Au
 C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Aula11\obj\Debug\net8.0\Aula11.AssemblyInfo.cs
 C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Aula11\obj\Debug\net8.0\Aula11.csproj.CoreCompileInputs.cache
 C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Aula11\obj\Debug\net8.0\Aula11.sourcelink.json
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\aula11\bin\Debug\net8.0\Aula11.exe
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\aula11\bin\Debug\net8.0\Aula11.deps.json
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\aula11\bin\Debug\net8.0\Aula11.runtimeconfig.json
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\aula11\bin\Debug\net8.0\Aula11.dll
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\aula11\bin\Debug\net8.0\Aula11.pdb
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\aula11\obj\Debug\net8.0\Aula11.dll
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\aula11\obj\Debug\net8.0\refint\Aula11.dll
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\aula11\obj\Debug\net8.0\Aula11.pdb
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\aula11\obj\Debug\net8.0\Aula11.genruntimeconfig.cache
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\aula11\obj\Debug\net8.0\ref\Aula11.dll

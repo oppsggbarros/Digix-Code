@@ -1,25 +1,33 @@
 using System;
-class Progaram
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+
+namespace Aula_11
 {
-    static void oOrdenar(int[] vetor)
+    public class InsertionSort
     {
-        int aux, j;
-        for (int i = 0; i < vetor.Length - 1; i++)
+        // Funcação ordenar de forma crescente usando Insertion Sort
+        static void Ordenar(int[] vetor)
         {
-            aux = vetor[i];
-            j = i - 1;
-            while (j >= 0 && vetor[j] > aux)
+            int aux, j;
+            for (int i = 1; i < vetor.Length; i++)
             {
-                vetor[j+1] = vetor[j];
-                j--;
-
+                aux = vetor[i];
+                j = i - 1;
+                while (j >= 0 && vetor[j] > aux) {
+                    vetor[j+1] = vetor [j];
+                    j--;
+                }
+                vetor[j+1] = aux;
             }
-            vetor [j+1] = aux;
-
         }
-    }
-    static void Imprimir(int[] vetor)
-    {
-
+        static void Imprimir (int [] vetor){
+            for (int i = 0; i < vetor.Length; i++)
+            {
+                System.Console.WriteLine(vetor[i] + " ");
+            }
+            System.Console.WriteLine();
+        }
     }
 }
