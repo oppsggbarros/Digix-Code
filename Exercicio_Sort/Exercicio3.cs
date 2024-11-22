@@ -1,6 +1,6 @@
 using System;
 
-namespace SelectionSortStrings
+namespace SelectionSort
 {
     class Program
     {
