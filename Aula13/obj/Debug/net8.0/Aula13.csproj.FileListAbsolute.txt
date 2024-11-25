@@ -1,0 +1,15 @@
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\aula13\bin\Debug\net8.0\Aula13.exe
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\aula13\bin\Debug\net8.0\Aula13.deps.json
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\aula13\bin\Debug\net8.0\Aula13.runtimeconfig.json
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\aula13\bin\Debug\net8.0\Aula13.dll
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\aula13\bin\Debug\net8.0\Aula13.pdb
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\aula13\obj\Debug\net8.0\Aula13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\aula13\obj\Debug\net8.0\Aula13.AssemblyInfoInputs.cache
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\aula13\obj\Debug\net8.0\Aula13.AssemblyInfo.cs
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\aula13\obj\Debug\net8.0\Aula13.csproj.CoreCompileInputs.cache
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\aula13\obj\Debug\net8.0\Aula13.sourcelink.json
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\aula13\obj\Debug\net8.0\Aula13.dll
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\aula13\obj\Debug\net8.0\refint\Aula13.dll
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\aula13\obj\Debug\net8.0\Aula13.pdb
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\aula13\obj\Debug\net8.0\Aula13.genruntimeconfig.cache
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\aula13\obj\Debug\net8.0\ref\Aula13.dll
