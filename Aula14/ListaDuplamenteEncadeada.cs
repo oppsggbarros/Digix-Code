@@ -1,135 +1,150 @@
 using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
 
-public class Node<T>
+namespace Aula_14
 {
-    public T Data { get; set; }
-    public Node<T> Next { get; set; }
-    public Node<T> Previous { get; set; }
-
-    public Node(T data)
+    public class ListaDuplamenteEncadeada
     {
-        Data = data;
-        Next = null;
-        Previous = null;
-    }
-}
-
-public class DoublyLinkedList<T>
-{
-    private Node<T> head;
-    private Node<T> tail;
-
-    public DoublyLinkedList()
-    {
-        head = null;
-        tail = null;
-    }
-
-    public void AddFirst(T data)
-    {
-        Node<T> newNode = new Node<T>(data);
-        if (head == null)
+        private class Node
         {
-            head = newNode;
-            tail = newNode;
-        }
-        else
-        {
-            newNode.Next = head;
-            head.Previous = newNode;
-            head = newNode;
-        }
-    }
+            public int Valor { get; set; }
+            public Node Proximo { get; set; }
+            public Node Anterior { get; set; }
 
-    public void AddLast(T data)
-    {
-        Node<T> newNode = new Node<T>(data);
-        if (tail == null)
-        {
-            head = newNode;
-            tail = newNode;
-        }
-        else
-        {
-            tail.Next = newNode;
-            newNode.Previous = tail;
-            tail = newNode;
-        }
-    }
-
-    public void Remove(T data)
-    {
-        Node<T> current = head;
-
-        while (current != null)
-        {
-            if (current.Data.Equals(data))
+            public Node(int valor)
             {
-                if (current.Previous != null)
-                {
-                    current.Previous.Next = current.Next;
-                }
-                else
-                {
-                    head = current.Next;
-                }
+                Valor = valor;
+                Proximo = null;
+                Anterior = null;
+            }
+        }
 
-                if (current.Next != null)
+        private Node? Inicio { get; set; }
+
+        public void Inserir(int valor)
+        {
+            var novoNode = new Node(valor);
+            if (Inicio == null)
+            {
+                Inicio = novoNode;
+            }
+            else
+            {
+                var atual = Inicio;
+                while (atual.Proximo != null)
                 {
-                    current.Next.Previous = current.Previous;
+                    atual = atual.Proximo;
                 }
-                else
-                {
-                    tail = current.Previous;
-                }
+                atual.Proximo = novoNode;
+                novoNode.Anterior = atual;
+            }
+        }
+
+        public void Excluir(int valor)
+        {
+            if (Inicio == null)
+            {
+                Console.WriteLine("Lista vazia");
                 return;
             }
-            current = current.Next;
-        }
-    }
 
-    public void PrintList()
-    {
-        Node<T> current = head;
-        while (current != null)
+            if (Inicio.Valor == valor)
+            {
+                if (Inicio.Proximo != null)
+                {
+                    Inicio.Proximo.Anterior = null;
+                }
+                Inicio = Inicio.Proximo;
+                return;
+            }
+
+            var atual = Inicio;
+            while (atual != null && atual.Valor != valor)
+            {
+                atual = atual.Proximo;
+            }
+
+            if (atual != null)
+            {
+                if (atual.Anterior != null)
+                {
+                    atual.Anterior.Proximo = atual.Proximo;
+                }
+                if (atual.Proximo != null)
+                {
+                    atual.Proximo.Anterior = atual.Anterior;
+                }
+            }
+        }
+        public void RemoverTodas(int valor)
         {
-            Console.Write(current.Data + " ");
-            current = current.Next;
-        }
-        Console.WriteLine();
-    }
+            if (Inicio == null)
+            {
+                Console.WriteLine("Lista vazia");
+                return;
+            }
 
-    public void PrintListReverse()
-    {
-        Node<T> current = tail;
-        while (current != null)
+            var atual = Inicio;
+
+            while (atual != null)
+            {
+                if (atual.Valor == valor)
+                {
+                    // Se o nó a ser removido é o primeiro
+                    if (atual.Anterior == null)
+                    {
+                        Inicio = atual.Proximo; // Atualiza o início da lista
+                        if (Inicio != null) // Se a lista não fica vazia
+                        {
+                            Inicio.Anterior = null; // Remove a referência anterior do novo primeiro nó
+                        }
+                    }
+                    else
+                    {
+                        // Ajusta o ponteiro do nó anterior
+                        atual.Anterior.Proximo = atual.Proximo;
+                    }
+
+                    if (atual.Proximo != null) // Se não é o último nó
+                    {
+                        // Ajusta o ponteiro do nó seguinte
+                        atual.Proximo.Anterior = atual.Anterior;
+                    }
+                }
+
+                // Avança para o próximo nó
+                atual = atual.Proximo;
+            }
+        }
+
+        public void Listar()
         {
-            Console.Write(current.Data + " ");
-            current = current.Previous;
+            var atual = Inicio;
+            while (atual != null)
+            {
+                Console.WriteLine(atual.Valor);
+                atual = atual.Proximo;
+            }
         }
-        Console.WriteLine();
-    }
-}
 
-public class ListaDuplamenteEncadeada
+        public static void Main()
+        {
+            var lista = new ListaDuplamenteEncadeada();
+            lista.Inserir(10);
+            lista.Inserir(20);
+            lista.Inserir(30);
+            lista.Inserir(20);
+            lista.Inserir(40);
 
-{
-    public static void Mn(string[] args)
-    {
-        DoublyLinkedList<int> list = new DoublyLinkedList<int>();
-        list.AddFirst(10);
-        list.AddFirst(20);
-        list.AddLast(30);
-        list.AddLast(40);
+            Console.WriteLine("Lista antes da remoção:");
+            lista.Listar();
 
-        Console.WriteLine("Lista:");
-        list.PrintList();
+            lista.RemoverTodas(20);
 
-        Console.WriteLine("Removendo 20:");
-        list.Remove(20);
-        list.PrintList();
-
-        Console.WriteLine("Lista em ordem reversa:");
-        list.PrintListReverse();
+            Console.WriteLine("Lista após a remoção de todas as ocorrências de 20:");
+            lista.Listar();
+        }
     }
 }

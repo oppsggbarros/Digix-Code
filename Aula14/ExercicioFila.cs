@@ -1,9 +1,5 @@
 using System;
 using System.Collections;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Aula_13
 {
@@ -11,54 +7,34 @@ namespace Aula_13
     {
         static void Main(string[] args)
         {
-            Queue qt = new Queue();
-            qt.Enqueue(1);
-            qt.Enqueue(2);
-            qt.Enqueue(3);
-            
+            Queue fila1 = new Queue();
+            fila1.Enqueue(10);
+            fila1.Enqueue(20);
 
-            foreach (Object obj in qt)
+            Queue fila2 = new Queue();
+            fila2.Enqueue(30);
+            fila2.Enqueue(40);
+
+            
+            InserirElementosNaFila(fila1, fila2);
+
+            
+            foreach (Object obj in fila1)
             {
                 Console.WriteLine(obj);
             }
             Console.WriteLine();
-            Console.WriteLine("Numero de Elementos na fila: " + qt.Count);
-            
-            Console.ReadKey();
-            Console.Clear();
+            Console.WriteLine("Número de Elementos na fila: " + fila1.Count);
 
-            qt.Dequeue();
+            Console.ReadKey();
+        }
 
-            foreach (Object obj in qt)
+        static void InserirElementosNaFila(Queue filaAtual, Queue filaParaInserir)
+        {
+            foreach (Object obj in filaParaInserir)
             {
-                Console.WriteLine(obj);
+                filaAtual.Enqueue(obj);
             }
-            Console.WriteLine();
-            Console.WriteLine("Numero de Elementos na fila: " + qt.Count);
-            
-            Console.ReadKey();
-            Console.Clear();
-            qt.Dequeue();
-            foreach (Object obj in qt)
-            {
-                Console.WriteLine(obj);
-            }
-            Console.WriteLine();
-            Console.WriteLine("Numero de Elementos na fila: " + qt.Count);
-            
-            Console.ReadKey();
-            Console.Clear();
-
-            qt.Dequeue();
-            foreach (Object obj in qt)
-            {
-                Console.WriteLine(obj);
-            }
-            Console.WriteLine();
-            Console.WriteLine("Numero de Elementos na fila: " + qt.Count);
-            
-            Console.ReadKey();
-            
         }
     }
 }
