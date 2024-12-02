@@ -2,7 +2,7 @@ using System;
 
 class Program
 {
-    static void Main(string[] args)
+    static void Man(string[] args)
     {
         int[] data = new int[100]; // Array para armazenar os dados
         int[] next = new int[100]; // Array para armazenar os índices dos próximos nós
