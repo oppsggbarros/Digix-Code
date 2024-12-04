@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gabrielgravena\\Documents\\GitHub\\Csharp-digix\\aula14\\Aula14.csproj": {}
+    "C:\\Users\\gabrielgravena\\Documents\\GitHub\\Csharp-digix\\Aula14\\Aula14.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gabrielgravena\\Documents\\GitHub\\Csharp-digix\\aula14\\Aula14.csproj": {
+    "C:\\Users\\gabrielgravena\\Documents\\GitHub\\Csharp-digix\\Aula14\\Aula14.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gabrielgravena\\Documents\\GitHub\\Csharp-digix\\aula14\\Aula14.csproj",
+        "projectUniqueName": "C:\\Users\\gabrielgravena\\Documents\\GitHub\\Csharp-digix\\Aula14\\Aula14.csproj",
         "projectName": "Aula14",
-        "projectPath": "C:\\Users\\gabrielgravena\\Documents\\GitHub\\Csharp-digix\\aula14\\Aula14.csproj",
+        "projectPath": "C:\\Users\\gabrielgravena\\Documents\\GitHub\\Csharp-digix\\Aula14\\Aula14.csproj",
         "packagesPath": "C:\\Users\\gabrielgravena\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gabrielgravena\\Documents\\GitHub\\Csharp-digix\\aula14\\obj\\",
+        "outputPath": "C:\\Users\\gabrielgravena\\Documents\\GitHub\\Csharp-digix\\Aula14\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
