@@ -1,0 +1,15 @@
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\aula16_oo\bin\Debug\net8.0\Aula16_OO.exe
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\aula16_oo\bin\Debug\net8.0\Aula16_OO.deps.json
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\aula16_oo\bin\Debug\net8.0\Aula16_OO.runtimeconfig.json
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\aula16_oo\bin\Debug\net8.0\Aula16_OO.dll
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\aula16_oo\bin\Debug\net8.0\Aula16_OO.pdb
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\aula16_oo\obj\Debug\net8.0\Aula16_OO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\aula16_oo\obj\Debug\net8.0\Aula16_OO.AssemblyInfoInputs.cache
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\aula16_oo\obj\Debug\net8.0\Aula16_OO.AssemblyInfo.cs
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\aula16_oo\obj\Debug\net8.0\Aula16_OO.csproj.CoreCompileInputs.cache
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\aula16_oo\obj\Debug\net8.0\Aula16_OO.sourcelink.json
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\aula16_oo\obj\Debug\net8.0\Aula16_OO.dll
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\aula16_oo\obj\Debug\net8.0\refint\Aula16_OO.dll
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\aula16_oo\obj\Debug\net8.0\Aula16_OO.pdb
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\aula16_oo\obj\Debug\net8.0\Aula16_OO.genruntimeconfig.cache
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\aula16_oo\obj\Debug\net8.0\ref\Aula16_OO.dll
