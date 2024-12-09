@@ -1,0 +1,15 @@
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Aula17_OO_Polimorfismo\bin\Debug\net8.0\Aula17_OO_Polimorfismo.exe
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Aula17_OO_Polimorfismo\bin\Debug\net8.0\Aula17_OO_Polimorfismo.deps.json
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Aula17_OO_Polimorfismo\bin\Debug\net8.0\Aula17_OO_Polimorfismo.runtimeconfig.json
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Aula17_OO_Polimorfismo\bin\Debug\net8.0\Aula17_OO_Polimorfismo.dll
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Aula17_OO_Polimorfismo\bin\Debug\net8.0\Aula17_OO_Polimorfismo.pdb
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Aula17_OO_Polimorfismo\obj\Debug\net8.0\Aula17_OO_Polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Aula17_OO_Polimorfismo\obj\Debug\net8.0\Aula17_OO_Polimorfismo.AssemblyInfoInputs.cache
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Aula17_OO_Polimorfismo\obj\Debug\net8.0\Aula17_OO_Polimorfismo.AssemblyInfo.cs
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Aula17_OO_Polimorfismo\obj\Debug\net8.0\Aula17_OO_Polimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Aula17_OO_Polimorfismo\obj\Debug\net8.0\Aula17_OO_Polimorfismo.sourcelink.json
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Aula17_OO_Polimorfismo\obj\Debug\net8.0\Aula17_OO_Polimorfismo.dll
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Aula17_OO_Polimorfismo\obj\Debug\net8.0\refint\Aula17_OO_Polimorfismo.dll
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Aula17_OO_Polimorfismo\obj\Debug\net8.0\Aula17_OO_Polimorfismo.pdb
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Aula17_OO_Polimorfismo\obj\Debug\net8.0\Aula17_OO_Polimorfismo.genruntimeconfig.cache
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Aula17_OO_Polimorfismo\obj\Debug\net8.0\ref\Aula17_OO_Polimorfismo.dll
