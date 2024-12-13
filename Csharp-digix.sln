@@ -43,6 +43,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula17_OO", "Aula17_OO\Aula
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula17_OO_Polimorfismo", "Aula17_OO_Polimorfismo\Aula17_OO_Polimorfismo.csproj", "{C0E21D56-4983-418B-AEDD-E5DA183DF841}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula18_Encapsulamento", "Aula18_Encapsulamento\Aula18_Encapsulamento.csproj", "{FE4D63C5-8ADA-435D-B881-B35C01F1402F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -133,6 +135,10 @@ Global
 		{C0E21D56-4983-418B-AEDD-E5DA183DF841}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C0E21D56-4983-418B-AEDD-E5DA183DF841}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C0E21D56-4983-418B-AEDD-E5DA183DF841}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE4D63C5-8ADA-435D-B881-B35C01F1402F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE4D63C5-8ADA-435D-B881-B35C01F1402F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE4D63C5-8ADA-435D-B881-B35C01F1402F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE4D63C5-8ADA-435D-B881-B35C01F1402F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

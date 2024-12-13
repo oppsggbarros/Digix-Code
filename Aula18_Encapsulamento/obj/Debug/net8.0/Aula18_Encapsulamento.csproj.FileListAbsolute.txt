@@ -1,0 +1,15 @@
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Aula18_Encapsulamento\bin\Debug\net8.0\Aula18_Encapsulamento.exe
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Aula18_Encapsulamento\bin\Debug\net8.0\Aula18_Encapsulamento.deps.json
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Aula18_Encapsulamento\bin\Debug\net8.0\Aula18_Encapsulamento.runtimeconfig.json
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Aula18_Encapsulamento\bin\Debug\net8.0\Aula18_Encapsulamento.dll
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Aula18_Encapsulamento\bin\Debug\net8.0\Aula18_Encapsulamento.pdb
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Aula18_Encapsulamento\obj\Debug\net8.0\Aula18_Encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Aula18_Encapsulamento\obj\Debug\net8.0\Aula18_Encapsulamento.AssemblyInfoInputs.cache
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Aula18_Encapsulamento\obj\Debug\net8.0\Aula18_Encapsulamento.AssemblyInfo.cs
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Aula18_Encapsulamento\obj\Debug\net8.0\Aula18_Encapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Aula18_Encapsulamento\obj\Debug\net8.0\Aula18_Encapsulamento.sourcelink.json
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Aula18_Encapsulamento\obj\Debug\net8.0\Aula18_Encapsulamento.dll
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Aula18_Encapsulamento\obj\Debug\net8.0\refint\Aula18_Encapsulamento.dll
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Aula18_Encapsulamento\obj\Debug\net8.0\Aula18_Encapsulamento.pdb
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Aula18_Encapsulamento\obj\Debug\net8.0\Aula18_Encapsulamento.genruntimeconfig.cache
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Aula18_Encapsulamento\obj\Debug\net8.0\ref\Aula18_Encapsulamento.dll
