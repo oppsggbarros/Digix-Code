@@ -1,0 +1,15 @@
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Aula18_Interface\bin\Debug\net8.0\Aula18_Interface.exe
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Aula18_Interface\bin\Debug\net8.0\Aula18_Interface.deps.json
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Aula18_Interface\bin\Debug\net8.0\Aula18_Interface.runtimeconfig.json
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Aula18_Interface\bin\Debug\net8.0\Aula18_Interface.dll
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Aula18_Interface\bin\Debug\net8.0\Aula18_Interface.pdb
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Aula18_Interface\obj\Debug\net8.0\Aula18_Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Aula18_Interface\obj\Debug\net8.0\Aula18_Interface.AssemblyInfoInputs.cache
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Aula18_Interface\obj\Debug\net8.0\Aula18_Interface.AssemblyInfo.cs
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Aula18_Interface\obj\Debug\net8.0\Aula18_Interface.csproj.CoreCompileInputs.cache
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Aula18_Interface\obj\Debug\net8.0\Aula18_Interface.sourcelink.json
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Aula18_Interface\obj\Debug\net8.0\Aula18_Interface.dll
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Aula18_Interface\obj\Debug\net8.0\refint\Aula18_Interface.dll
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Aula18_Interface\obj\Debug\net8.0\Aula18_Interface.pdb
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Aula18_Interface\obj\Debug\net8.0\Aula18_Interface.genruntimeconfig.cache
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Aula18_Interface\obj\Debug\net8.0\ref\Aula18_Interface.dll

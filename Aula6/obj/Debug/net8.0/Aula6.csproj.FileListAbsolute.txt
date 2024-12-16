@@ -12,3 +12,4 @@ C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Aula6\obj\Debug\net8.0\ref
 C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Aula6\obj\Debug\net8.0\Aula6.pdb
 C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Aula6\obj\Debug\net8.0\Aula6.genruntimeconfig.cache
 C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Aula6\obj\Debug\net8.0\ref\Aula6.dll
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Aula6\bin\Debug\net8.0\Aula6.pdb
