@@ -51,6 +51,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula19", "Aula19\Aula19.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula_20_Relacoes", "Aula_20_Relacoes\Aula_20_Relacoes.csproj", "{D65F90AE-BFC8-4CDD-B297-7912E85E5783}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio_Relacionamento", "Exercicio_Relacionamento\Exercicio_Relacionamento.csproj", "{43CAAD5F-662D-490C-8EDD-BD218451E3AD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -157,6 +159,10 @@ Global
 		{D65F90AE-BFC8-4CDD-B297-7912E85E5783}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D65F90AE-BFC8-4CDD-B297-7912E85E5783}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D65F90AE-BFC8-4CDD-B297-7912E85E5783}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43CAAD5F-662D-490C-8EDD-BD218451E3AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43CAAD5F-662D-490C-8EDD-BD218451E3AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43CAAD5F-662D-490C-8EDD-BD218451E3AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43CAAD5F-662D-490C-8EDD-BD218451E3AD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

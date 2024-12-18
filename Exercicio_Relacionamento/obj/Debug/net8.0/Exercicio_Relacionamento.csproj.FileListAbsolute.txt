@@ -1,0 +1,15 @@
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Exercicio_Relacionamento\bin\Debug\net8.0\Exercicio_Relacionamento.exe
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Exercicio_Relacionamento\bin\Debug\net8.0\Exercicio_Relacionamento.deps.json
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Exercicio_Relacionamento\bin\Debug\net8.0\Exercicio_Relacionamento.runtimeconfig.json
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Exercicio_Relacionamento\bin\Debug\net8.0\Exercicio_Relacionamento.dll
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Exercicio_Relacionamento\bin\Debug\net8.0\Exercicio_Relacionamento.pdb
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Exercicio_Relacionamento\obj\Debug\net8.0\Exercicio_Relacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Exercicio_Relacionamento\obj\Debug\net8.0\Exercicio_Relacionamento.AssemblyInfoInputs.cache
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Exercicio_Relacionamento\obj\Debug\net8.0\Exercicio_Relacionamento.AssemblyInfo.cs
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Exercicio_Relacionamento\obj\Debug\net8.0\Exercicio_Relacionamento.csproj.CoreCompileInputs.cache
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Exercicio_Relacionamento\obj\Debug\net8.0\Exercicio_Relacionamento.sourcelink.json
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Exercicio_Relacionamento\obj\Debug\net8.0\Exercicio_Relacionamento.dll
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Exercicio_Relacionamento\obj\Debug\net8.0\refint\Exercicio_Relacionamento.dll
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Exercicio_Relacionamento\obj\Debug\net8.0\Exercicio_Relacionamento.pdb
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Exercicio_Relacionamento\obj\Debug\net8.0\Exercicio_Relacionamento.genruntimeconfig.cache
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Exercicio_Relacionamento\obj\Debug\net8.0\ref\Exercicio_Relacionamento.dll
