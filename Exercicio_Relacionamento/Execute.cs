@@ -3,7 +3,7 @@ using System.Collections.Generic;
 namespace Exercicio_Relacionamento
 {
     public class Execute{
-        static void Main(string[] args)
+        static void Mn(string[] args)
         {
             
             Estado estado = new Estado { nome = "São Paulo", sigla = "SP" };
