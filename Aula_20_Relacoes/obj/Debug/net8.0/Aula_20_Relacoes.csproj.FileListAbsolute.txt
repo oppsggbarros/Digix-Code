@@ -1,0 +1,5 @@
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Aula_20_Relacoes\obj\Debug\net8.0\Aula_20_Relacoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Aula_20_Relacoes\obj\Debug\net8.0\Aula_20_Relacoes.AssemblyInfoInputs.cache
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Aula_20_Relacoes\obj\Debug\net8.0\Aula_20_Relacoes.AssemblyInfo.cs
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Aula_20_Relacoes\obj\Debug\net8.0\Aula_20_Relacoes.csproj.CoreCompileInputs.cache
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Aula_20_Relacoes\obj\Debug\net8.0\Aula_20_Relacoes.sourcelink.json
