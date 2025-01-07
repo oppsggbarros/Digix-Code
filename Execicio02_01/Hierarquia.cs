@@ -146,7 +146,7 @@ namespace Taxonomia
 
     public class Program
     {
-        public static void Main(string[] args)
+        public static void Mn(string[] args)
         {
             Animalia humano = new HomoSapiens();
             Animalia cachorro = new CanisFamiliaris();

@@ -5,7 +5,7 @@ namespace Exercicio02_01
 {
     public class ConcatenaString
     {
-        public static void Mn(string[] args)
+        public static void Main(string[] args)
         {
             // Teste com o operador '+'
             string strFinal = "";
