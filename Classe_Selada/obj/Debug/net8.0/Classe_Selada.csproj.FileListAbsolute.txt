@@ -1,0 +1,15 @@
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Classe_Selada\bin\Debug\net8.0\Classe_Selada.exe
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Classe_Selada\bin\Debug\net8.0\Classe_Selada.deps.json
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Classe_Selada\bin\Debug\net8.0\Classe_Selada.runtimeconfig.json
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Classe_Selada\bin\Debug\net8.0\Classe_Selada.dll
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Classe_Selada\bin\Debug\net8.0\Classe_Selada.pdb
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Classe_Selada\obj\Debug\net8.0\Classe_Selada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Classe_Selada\obj\Debug\net8.0\Classe_Selada.AssemblyInfoInputs.cache
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Classe_Selada\obj\Debug\net8.0\Classe_Selada.AssemblyInfo.cs
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Classe_Selada\obj\Debug\net8.0\Classe_Selada.csproj.CoreCompileInputs.cache
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Classe_Selada\obj\Debug\net8.0\Classe_Selada.sourcelink.json
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Classe_Selada\obj\Debug\net8.0\Classe_Selada.dll
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Classe_Selada\obj\Debug\net8.0\refint\Classe_Selada.dll
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Classe_Selada\obj\Debug\net8.0\Classe_Selada.pdb
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Classe_Selada\obj\Debug\net8.0\Classe_Selada.genruntimeconfig.cache
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Classe_Selada\obj\Debug\net8.0\ref\Classe_Selada.dll
