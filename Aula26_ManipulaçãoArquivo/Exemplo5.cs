@@ -8,13 +8,14 @@ namespace Aula26_ManipulaçãoArquivo
 {
     public class Exemplo5
     {
-        static void Main(string[] args)
+        static void n(string[] args)
         {
             string path = @"C:\Users\gabrielgravena\Desktop\test";
             try
             {
                 IEnumerable<string> pastas =Directory.EnumerateDirectories(path, "*.*",
                 SearchOption.AllDirectories);
+                Directory.CreateDirectory(path + @"\Test23");
                 System.Console.WriteLine("Pastas:");
                 foreach(string item in pastas)
                 {
