@@ -65,6 +65,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula25_Struct", "Aula25_Str
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula26_ManipulaçãoArquivo", "Aula26_ManipulaçãoArquivo\Aula26_ManipulaçãoArquivo.csproj", "{9994248F-FBD7-40DF-AF5B-F3C62CBCF6B0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula27_ManipulacaoArquivoBinario", "Aula27_ManipulacaoArquivoBinario\Aula27_ManipulacaoArquivoBinario.csproj", "{D695BC6B-054E-42E4-8F06-76D50253508B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -199,6 +201,10 @@ Global
 		{9994248F-FBD7-40DF-AF5B-F3C62CBCF6B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9994248F-FBD7-40DF-AF5B-F3C62CBCF6B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9994248F-FBD7-40DF-AF5B-F3C62CBCF6B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D695BC6B-054E-42E4-8F06-76D50253508B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D695BC6B-054E-42E4-8F06-76D50253508B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D695BC6B-054E-42E4-8F06-76D50253508B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D695BC6B-054E-42E4-8F06-76D50253508B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
