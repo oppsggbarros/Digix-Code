@@ -13,14 +13,12 @@ namespace Aula_27_ManipuacaoArquivoBinario
     {
         static void Main(string[] args)
         {
-            string originalFile = "arquivo_original.csv";
+            string originalFile = "arquivo.csv";
             string encryptedFile = "arquivo_encriptado.csv";
             string decryptedFile = "arquivo_desencriptado.csv";
 
             // Criar um arquivo de texto simples
-            File.WriteAllText(originalFile, "TV LED,1290.99,1\nVideo Game Chair, 350.50,3\nIphone X,900.00,2\nSamsung Galaxy 9,850.00,2"); // Dados de exemplo
-
-            Console.WriteLine("Arquivo original criado."); // Mensagem de confirmação
+             // Mensagem de confirmação
 
             string password = "minhaSenhaSegura"; // Senha para encriptação
 

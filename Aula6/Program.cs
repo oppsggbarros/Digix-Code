@@ -1,107 +1,127 @@
-﻿// // // namespace Aula_6;
+﻿using System;
+using System.Collections.Generic;
+using System.IO;
 
-// // // public class Matriz
-// // // {
-// // //     static void Main(string[] args)
-// // //     {
-        
-// // //         int[,] matriz = new int[3, 3] {
-// // //             {1, 2, 3},
-// // //             {4, 5, 6},
-// // //             {7, 8, 9}
+namespace Exercicio17_01
+{
+    public class Exercicio_matriz
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Digite o número de linhas da matriz: ");
+            int l = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Digite o número de colunas da matriz: ");
+            int c = Convert.ToInt32(Console.ReadLine());
 
-// // //         };
-// // //         int[,] transposta = new int[3, 3];
-
-// // //         for  (int i = 0; i < matriz.GetLength(0); i++)
-// // //         {
-// // //             for (int j = 0; j < matriz.GetLength(1); j++)
-// // //             {
-// // //                 transposta [j, i] = matriz[i, j];
-// // //             }
-// // //         }
-// // //         for (int i = 0; i <  transposta.GetLength(0); i++)
-// // //         {
-// // //             for (int j = 0; j < transposta.GetLength(1); j++){
-// // //                 Console.Write(transposta[i, j] + " ");
-// // //             }
-
-// // //         }
-
-
-// // //     }
-// // // }
-
-
-// // using System;
-
-// // namespace Aula_7
-// // {
-// //     class Program
-// //     {
-// //         static void Main(string[] args)
-// //         {
-// //             // Matriz Tridimencional
-// //             // Na tridiciomensional, 3 indices
-// //             // 1º indice: Linha
-// //             // 2º indice: Coluna
-// //             // 3º indice: Profundidade
-
-// //             int[,,] matriz3D = new int[2, 2, 2] {
-// //                 {
-// //                     {1, 2},
-// //                     {3, 4}
-// //                 },
-// //                 {
-// //                     {5, 6},
-// //                     {7, 8}
-// //                 }
-// //             };
-// //             int soma = 0;
-// //             for (int i =  0; i < matriz3D.GetLength(0); i++)
-// //             {
-// //                 for (int j = 0; j < matriz3D.GetLength(1); j++)
-// //                 {
-// //                     for (int k = 0; k < matriz3D.GetLength(2); k++)
-// //                     {
-// //                         soma +=  matriz3D[i, j, k];
-
-
-// //                     }
-// //                 }
-// //             }
-// //             foreach (int item in  matriz3D)
-// //             {
-// //                 Console.Write(item + " ");
-// //             }
-// //         }
-// //     }
-// // }
-// using System;
-
-// namespace Aula_7
-// {
-//     class Program
-//     {
-//         static void Main(string[] args)
-//         {
-//             int [] vetor = new int[10];
-//             int i = 0;
-//             Console.WriteLine("Digite 10 valores inteiros");
-//             for (i = 0; i < 10; i++)
-//             {
-//                 vetor[i] = Convert.ToInt32(Console.ReadLine());
-//             }
-//             int media = 0;
-//             for (i = 0; i < 10; i++)
-//             {
-//                 media += vetor[i];
-                
-//             }
-//             media = media/10;
-//             Console.WriteLine($"A média dos valores é {media}");
+            int[,] matriz = new int[l, c];
+            Random rand = new Random();
 
             
-//         }
-//     }
-// }
+            for (int i = 0; i < l; i++)
+            {
+                for (int j = 0; j < c; j++)
+                {
+                    matriz[i, j] = rand.Next(1, 101);
+                }
+            }
+
+            Console.WriteLine("Selecione uma das opções abaixo:");
+            Console.WriteLine("1 - Imprimir a matriz");
+            Console.WriteLine("2 - Imprimir a soma das linhas");
+            Console.WriteLine("3 - Imprimir a soma das colunas");
+            Console.WriteLine("4 - Imprimir a matriz transposta");
+            int opcao = Convert.ToInt32(Console.ReadLine());
+            string path = "resultado.csv";
+
+            switch (opcao)
+            {
+                case 1:
+                    ImprimirMatriz(matriz, l, c, path);
+                    break;
+
+                case 2:
+                    ImprimirSomaDasLinhas(matriz, l, c, path);
+                    break;
+
+                case 3:
+                    ImprimirSomaDasColunas(matriz, l, c, path);
+                    break;
+
+                case 4:
+                    ImprimirMatrizTransposta(matriz, l, c, path);
+                    break;
+
+                default:
+                    Console.WriteLine("Opção inválida");
+                    break;
+            }
+        }
+
+        static void ImprimirMatriz(int[,] matriz, int l, int c, string path)
+        {
+            using (StreamWriter sw = new StreamWriter(path))
+            {
+                for (int i = 0; i < l; i++)
+                {
+                    for (int j = 0; j < c; j++)
+                    {
+                        sw.Write(matriz[i, j]);
+                        if (j < c - 1) sw.Write(",");
+                    }
+                    sw.WriteLine();
+                }
+            }
+            
+        }
+
+        static void ImprimirSomaDasLinhas(int[,] matriz, int l, int c, string path)
+        {
+            using (StreamWriter sw = new StreamWriter(path))
+            {
+                sw.WriteLine("Linha,Soma");
+                for (int i = 0; i < l; i++)
+                {
+                    int soma = 0;
+                    for (int j = 0; j < c; j++)
+                    {
+                        soma += matriz[i, j];
+                    }
+                    sw.WriteLine($"{i + 1},{soma}");
+                }
+            }
+        }
+
+        static void ImprimirSomaDasColunas(int[,] matriz, int l, int c, string path)
+        {
+            using (StreamWriter sw = new StreamWriter(path))
+            {
+                sw.WriteLine("Coluna,Soma");
+                for (int j = 0; j < c; j++)
+                {
+                    int soma = 0;
+                    for (int i = 0; i < l; i++)
+                    {
+                        soma += matriz[i, j];
+                    }
+                    sw.WriteLine($"{j + 1},{soma}");
+                }
+            }
+        }
+
+        static void ImprimirMatrizTransposta(int[,] matriz, int l, int c, string path)
+        {
+            using (StreamWriter sw = new StreamWriter(path))
+            {
+                for (int j = 0; j < c; j++)
+                {
+                    for (int i = 0; i < l; i++)
+                    {
+                        sw.Write(matriz[i, j]);
+                        if (i < l - 1) sw.Write(",");
+                    }
+                    sw.WriteLine();
+                }
+            }
+        }
+    }
+}

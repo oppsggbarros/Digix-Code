@@ -57,10 +57,10 @@ namespace Aula_7
             
             }   
 
-            // Console.WriteLine($"Soma da linha 1 é :{somal1}");
-            // Console.WriteLine($"Soma da linha 2 é :{somal2}");
-            // Console.WriteLine($"Soma da linha 3 é :{somal3}");
-            // Console.WriteLine($"Soma da linha 4 é :{somal4}");
+            Console.WriteLine($"Soma da linha 1 é :{somal1}");
+            Console.WriteLine($"Soma da linha 2 é :{somal2}");
+            Console.WriteLine($"Soma da linha 3 é :{somal3}");
+            Console.WriteLine($"Soma da linha 4 é :{somal4}");
 
             //Exercicio 3
             // int[] vetor = { 1, 2, 3, 2, 1 };
