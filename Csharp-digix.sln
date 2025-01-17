@@ -69,6 +69,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula27_ManipulacaoArquivoBi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio17_01", "Exercicio17_01\Exercicio17_01.csproj", "{C667CD5B-3C2F-46AF-A125-2789CC395F3B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula28_manipulacaoJSON", "Aula28_manipulacaoJSON\Aula28_manipulacaoJSON.csproj", "{2B92A7D0-7924-4006-A267-8056D0A9C640}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -211,6 +213,10 @@ Global
 		{C667CD5B-3C2F-46AF-A125-2789CC395F3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C667CD5B-3C2F-46AF-A125-2789CC395F3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C667CD5B-3C2F-46AF-A125-2789CC395F3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B92A7D0-7924-4006-A267-8056D0A9C640}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B92A7D0-7924-4006-A267-8056D0A9C640}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B92A7D0-7924-4006-A267-8056D0A9C640}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B92A7D0-7924-4006-A267-8056D0A9C640}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

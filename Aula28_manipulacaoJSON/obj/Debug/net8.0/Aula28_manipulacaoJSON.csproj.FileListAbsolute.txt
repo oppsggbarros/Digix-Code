@@ -1,0 +1,15 @@
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Aula28_manipulacaoJSON\bin\Debug\net8.0\Aula28_manipulacaoJSON.exe
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Aula28_manipulacaoJSON\bin\Debug\net8.0\Aula28_manipulacaoJSON.deps.json
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Aula28_manipulacaoJSON\bin\Debug\net8.0\Aula28_manipulacaoJSON.runtimeconfig.json
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Aula28_manipulacaoJSON\bin\Debug\net8.0\Aula28_manipulacaoJSON.dll
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Aula28_manipulacaoJSON\bin\Debug\net8.0\Aula28_manipulacaoJSON.pdb
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Aula28_manipulacaoJSON\obj\Debug\net8.0\Aula28_manipulacaoJSON.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Aula28_manipulacaoJSON\obj\Debug\net8.0\Aula28_manipulacaoJSON.AssemblyInfoInputs.cache
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Aula28_manipulacaoJSON\obj\Debug\net8.0\Aula28_manipulacaoJSON.AssemblyInfo.cs
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Aula28_manipulacaoJSON\obj\Debug\net8.0\Aula28_manipulacaoJSON.csproj.CoreCompileInputs.cache
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Aula28_manipulacaoJSON\obj\Debug\net8.0\Aula28_manipulacaoJSON.sourcelink.json
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Aula28_manipulacaoJSON\obj\Debug\net8.0\Aula28_manipulacaoJSON.dll
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Aula28_manipulacaoJSON\obj\Debug\net8.0\refint\Aula28_manipulacaoJSON.dll
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Aula28_manipulacaoJSON\obj\Debug\net8.0\Aula28_manipulacaoJSON.pdb
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Aula28_manipulacaoJSON\obj\Debug\net8.0\Aula28_manipulacaoJSON.genruntimeconfig.cache
+C:\Users\gabrielgravena\Documents\GitHub\Csharp-digix\Aula28_manipulacaoJSON\obj\Debug\net8.0\ref\Aula28_manipulacaoJSON.dll
