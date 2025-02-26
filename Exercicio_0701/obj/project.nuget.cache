@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "/ZT+Rbh2qnA=",
+  "dgSpecHash": "6P3UhwLpTb0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\gabrielgravena\\Documents\\GitHub\\Csharp-digix\\Exercicio_0701\\Exercicio_0701.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\eu msm\\Documents\\GitHub\\Digix-Code\\Exercicio_0701\\Exercicio_0701.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\eu msm\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.13\\microsoft.netcore.app.ref.8.0.13.nupkg.sha512",
+    "C:\\Users\\eu msm\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.13\\microsoft.windowsdesktop.app.ref.8.0.13.nupkg.sha512",
+    "C:\\Users\\eu msm\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.13\\microsoft.aspnetcore.app.ref.8.0.13.nupkg.sha512",
+    "C:\\Users\\eu msm\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.13\\microsoft.netcore.app.host.win-x64.8.0.13.nupkg.sha512"
+  ],
   "logs": []
 }
